@@ -1,0 +1,8 @@
+{
+  "apiVersion": 2,
+  "title": "EM Cards",
+  "name": "em_cards/cards",
+  "category": "layout",
+  "icon": "format-image",
+  "editorScript": "file:./js/card-block.js"
+}
